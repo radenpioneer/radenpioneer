@@ -1,5 +1,3 @@
-# R. Ilham Sastronegoro
-
 > Those who seeks the top, they sit up the nights.
 >> *Imam Al-Shafei*
 
