@@ -1,5 +1,6 @@
-> Those who seeks the top, they sit up the nights.
->> *Imam Al-Shafei*
+> Those who seeks the top, they sit up the nights. 
+> &mdash; *Imam Al-Shafei*
+---
 
 ## Hello there, my name is Ilham.
 
