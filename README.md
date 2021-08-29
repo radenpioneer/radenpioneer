@@ -1,4 +1,4 @@
-> Those who seeks the top, they sit up the nights. 
+> Those who seeks the top, they sit up the nights. Those seeks the top with no effort, is in search of impossible.
 > &mdash; *Imam Al-Shafei*
 ---
 
