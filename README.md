@@ -8,7 +8,7 @@ I am a self-taught front-end developer living in Sampit, Kalimantan Tengah, Indo
 
 - 🔭 I’m currently working on: 
     * [*a website for local branch of political party*](https://pksmbketapang.org) which based on [Next.JS](https://nextjs.org/).
-    * [*a website for local youth leadership training*](https://dm3kalselteng2021.netlify.app/) which I serve as lead organizer, based on [Eleventy](https://11ty.dev).
+    * [*a website for local youth leadership training*](https://dm3kalselteng2021.netlify.app/) which I serve as lead organizer, based on [Astro](https://astro.build).
 - 🌱 I’m currently learning **Javascript, Typescript, React and Next.JS**
 - 😄 Pronouns: *he/him*
 
