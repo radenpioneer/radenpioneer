@@ -8,16 +8,25 @@ I am a front-end developer living in Sampit, Kalimantan Tengah, Indonesia.
 
 ### My current stack include:
 
+<details>
+<summary>
+
 #### Languages I spoke (and generally understand):
+
+</summary>
 
 |   |   |   |   |   |
 |---|---|---|---|---|
 | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/typescript.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/python.svg" /> |<img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/html5.svg" /> |<img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/css3.svg" />
 
+</details>
+
 <details>
-<summary>More:</summary>
+<summary>
 
 #### Generators I use to create websites:
+
+</summary>
 
 |   |   |   |
 |---|---|---|
@@ -26,14 +35,28 @@ I am a front-end developer living in Sampit, Kalimantan Tengah, Indonesia.
 
 In the past i also created websites with Jekyll and Pelican but not anymore.
 
+</details>
+
+<details>
+<summary>
+
 #### My Frontend library list:
+
+</summary>
 
 |   |   |   |
 |---|---|---|
 | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/tailwindcss.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/react.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/svelte.svg" /> |
 | [Tailwind CSS](https://tailwindcss.com) | [React](https://reactjs.org) | [Svelte](https://svelte.dev) |
 
+</details>
+
+<details>
+<summary>
+
 #### Wherever I need backend and to deploy apps:
+
+</summary>
 
 |   |   |   |   |
 |---|---|---|---|
@@ -44,10 +67,15 @@ In the past i also created websites with Jekyll and Pelican but not anymore.
 
 ### My finished works include:
 
+<details>
+<summary>Click to view.</summary>
+
 |   |   |   |
 |---|---|---|
 | ![][kotimbercahaya] | ![][mushollamadani] | ![][dm3kalselteng] |
 | [**Kotim Bercahaya Mantap**](https://wizardly-clarke-78ab17.netlify.app) | [**Musholla Madani**](https://mushollamadani.com) | **DM3 KAMMI Kalsel-Kalteng** |
+
+</details>
 
 ### My GitHub stats:
 
