@@ -12,9 +12,10 @@ I am a front-end developer living in Sampit, Kalimantan Tengah, Indonesia.
 <details>
 <summary>Click to open</summary>
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-| <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/typescript.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/python.svg" /> |<img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/html5.svg" /> |<img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/css3.svg" />
+|   |   |   |
+|---|---|---|
+| <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/typescript.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/python.svg" /> |
+|<img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/html5.svg" /> |<img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/css3.svg" />
 
 </details>
 
@@ -65,9 +66,15 @@ In the past i also created websites with Jekyll and Pelican but not anymore.
 
 </details>
 
+### Read on my blog:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### My GitHub stats:
 
-![radenpioneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=radenpioneer&show_icons=true)
+|   |   |
+|---|---|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)  | ![radenpioneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=radenpioneer&show_icons=true)  |
 
 <!--definition-->
 [dm3kalselteng]: https://snap.sngr.dev/image/dm3kalselteng.com/360,640,isMobile/
