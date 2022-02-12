@@ -14,6 +14,9 @@ I am a front-end developer living in Sampit, Kalimantan Tengah, Indonesia.
 |---|---|---|---|---|
 | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/typescript.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/python.svg" /> |<img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/html5.svg" /> |<img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/css3.svg" />
 
+<details>
+<summary>More:</summary>
+
 #### Generators I use to create websites:
 
 |   |   |   |
@@ -37,6 +40,8 @@ In the past i also created websites with Jekyll and Pelican but not anymore.
 | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/railway.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/supabase.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/netlify.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/vercel.svg" />
 | [Railway](https://railway.app) | [Supabase](https://supabase.com) |[Netlify](https://netlify.com) |[Vercel](https://vercel.com) |
 
+</details>
+
 ### My finished works include:
 
 |   |   |   |
@@ -49,13 +54,10 @@ In the past i also created websites with Jekyll and Pelican but not anymore.
 ![radenpioneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=radenpioneer&show_icons=true)
 
 <!--definition-->
-[dm3kalselteng]: https://snap.sngr.dev/image/dm3kalselteng.com/412,869,isMobile/
-[kotimbercahaya]: https://snap.sngr.dev/image/wizardly-clarke-78ab17.netlify.app/412,869,isMobile/
-[mushollamadani]: https://snap.sngr.dev/image/www.mushollamadani.com/412,869,isMobile/
+[dm3kalselteng]: https://snap.sngr.dev/image/dm3kalselteng.com/360,640,isMobile/
+[kotimbercahaya]: https://snap.sngr.dev/image/wizardly-clarke-78ab17.netlify.app/360,640,isMobile/
+[mushollamadani]: https://snap.sngr.dev/image/www.mushollamadani.com/360,640,isMobile/
 
-[nextjs]: https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nextdotjs.svg
-[astro]: https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/astro.svg
-[eleventy]: https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/eleventy.svg
 <!--
 **radenpioneer/radenpioneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
