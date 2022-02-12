@@ -8,12 +8,9 @@ I am a front-end developer living in Sampit, Kalimantan Tengah, Indonesia.
 
 ### My current stack include:
 
+#### Languages I spoke (and generally understand)
 <details>
-<summary>
-
-#### Languages I spoke (and generally understand):
-
-</summary>
+<summary>Click to open</summary>
 
 |   |   |   |   |   |
 |---|---|---|---|---|
@@ -21,12 +18,9 @@ I am a front-end developer living in Sampit, Kalimantan Tengah, Indonesia.
 
 </details>
 
+#### Generators I use to create websites
 <details>
-<summary>
-
-#### Generators I use to create websites:
-
-</summary>
+<summary>Click to open</summary>
 
 |   |   |   |
 |---|---|---|
@@ -37,12 +31,10 @@ In the past i also created websites with Jekyll and Pelican but not anymore.
 
 </details>
 
+#### My Frontend library list
 <details>
-<summary>
+<summary>Click to open</summary>
 
-#### My Frontend library list:
-
-</summary>
 
 |   |   |   |
 |---|---|---|
@@ -51,12 +43,9 @@ In the past i also created websites with Jekyll and Pelican but not anymore.
 
 </details>
 
-<details>
-<summary>
-
 #### Wherever I need backend and to deploy apps:
-
-</summary>
+<details>
+<summary>Click to open</summary>
 
 |   |   |   |   |
 |---|---|---|---|
@@ -66,7 +55,6 @@ In the past i also created websites with Jekyll and Pelican but not anymore.
 </details>
 
 ### My finished works include:
-
 <details>
 <summary>Click to view.</summary>
 
