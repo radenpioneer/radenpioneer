@@ -68,6 +68,7 @@ In the past i also created websites with Jekyll and Pelican but not anymore.
 
 ### Read on my blog:
 <!-- BLOG-POST-LIST:START -->
+- [hashnode is such a new journey.](https://blog.sngr.dev/hashnode-is-such-a-new-journey)
 <!-- BLOG-POST-LIST:END -->
 
 ### My GitHub stats:
