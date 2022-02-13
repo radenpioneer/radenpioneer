@@ -73,9 +73,9 @@ In the past i also created websites with Jekyll and Pelican but not anymore.
 
 ### My GitHub stats:
 
-|   |   |
-|---|---|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)  | ![radenpioneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=radenpioneer&show_icons=true)  |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+![radenpioneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=radenpioneer&show_icons=true)
 
 <!--definition-->
 [dm3kalselteng]: https://snap.sngr.dev/image/dm3kalselteng.com/360,640,isMobile/
