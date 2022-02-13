@@ -68,6 +68,7 @@ In the past i also created websites with Jekyll and Pelican but not anymore.
 
 ### Read on my blog:
 <!-- BLOG-POST-LIST:START -->
+- [This musholla far away in the jungle deserves a good website](https://blog.sngr.dev/this-musholla-far-away-in-the-jungle-deserves-a-good-website)
 - [hashnode is such a new journey.](https://blog.sngr.dev/hashnode-is-such-a-new-journey)
 <!-- BLOG-POST-LIST:END -->
 
