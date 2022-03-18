@@ -2,9 +2,7 @@ name: Build on README edit
 on:
   push:
     branches:
-      - 'main' 
-  schedule:
-    - cron: '40 17 * * *'
+      - 'main'
   workflow_dispatch:
   
 jobs:
