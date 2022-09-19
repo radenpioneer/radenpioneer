@@ -20,35 +20,8 @@ After college he was occupied as an IT Support at Aquarius Boutique Hotel, Sampi
 
 His current aim at tomorrow, is being able to contribute for empowering technological advancements in his local community especially in Kalimantan Tengah. He said: *"Microsoft and Google are eager to put their technology investments in African countries, so if we show them what we are able to, they would invest in Borneo too."*
 
-### Read on my blog:
-<!-- BLOG-POST-LIST:START -->
-- [This musholla far away in the jungle deserves a good website](https://blog.sngr.dev/this-musholla-far-away-in-the-jungle-deserves-a-good-website)
-- [hashnode is such a new journey.](https://blog.sngr.dev/hashnode-is-such-a-new-journey)
-<!-- BLOG-POST-LIST:END -->
+## Project
 
-### My GitHub stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-![radenpioneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=radenpioneer&show_icons=true)
-
-<!--
-**radenpioneer/radenpioneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 🔭 I’m currently working on: 
-    * [*a website for local branch of political party*](https://pksmbketapang.org) which based on [Next.JS](https://nextjs.org/).
-    * [*a website for local youth leadership training*](https://dm3kalselteng2021.netlify.app/) which I serve as lead organizer, based on [Astro](https://astro.build).
-- 🌱 I’m currently learning **Javascript, Typescript, React and Next.JS**
-- 😄 Pronouns: *he/him*
--->
+| [SNGR Studio](https://sngr.studio) |
+| --- |
+| [![SNGR Studio](https://api.sngr.studio/image/https%3A%2F%2Fsngr.studio)](https://sngr.studio) |
