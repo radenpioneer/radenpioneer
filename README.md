@@ -2,69 +2,23 @@
 > &mdash; *Imam Al-Shafei*
 ---
 
-## Hello there, my name is Ilham.
+R Ilham Sastra Ardhie Purnomo adalah seorang pengembang web asal Sampit, Kalimantan Tengah. Memiliki ketertarikan dengan dunia komputer dan teknologi sejak masa mudanya, penggemar Charles Leclerc ini mulai mengulik web mulai dari Blogger, WordPress, sampai bermain-main dengan CMS lokal yang tidak biasa seperti AuraCMS yang buatan Indonesia.
 
-I am a front-end developer living in Sampit, Kalimantan Tengah, Indonesia.
+Sempat menempuh pendidikan S1 Teknik Informatika di Telkom University, Bandung, namun tidak sempat menyelesaikan kuliahnya karena alasan finansial. Namun tidak menyurutkan kecintaannya terhadap dunia pengembangan web, dengan bekal seadanya yang ia peroleh di masa kuliahnya ia melanjutkan secara otodidak untuk melengkapi skill dan kemampuannya dalam industri pengembangan web.
 
-### My current stack include:
+Ia sempat menjadi IT Support di Aquarius Boutique Hotel, Sampit, kemudian IT Support di BMT 071 Baamang, Sampit. Pengalaman profesionalnya sebagai pengembang web dimulai dengan mengerjakan website untuk Pilkada 2020 Kab. Kotawaringin Timur. Sejak saat itu, ia memutuskan untuk membentuk badan usaha dengan nama dagang SNGR Studio.
 
-#### Languages I spoke (and generally understand)
-<details>
-<summary>Click to open</summary>
+Cita-citanya, saat ini adalah ingin berkontribusi agar Kalimantan Tengah juga bisa maju dalam teknologi, tak kalah saing dengan negara berkembang di luar sana yang sedang berpacu cepat dalam penerapan teknologi informasi. *“Microsoft dan Google saja mau berinvestasi besar-besaran di Afrika, kalau Kalteng mau menunjukkan kebisaannya pasti mereka juga akan tergiur berinvestasi teknologi di tanah Borneo”*, begitu ujarnya.
 
-|   |   |   |
-|---|---|---|
-| <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/typescript.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/python.svg" /> |
-|<img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/html5.svg" /> |<img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/css3.svg" />
+## English Version
 
-</details>
+R Ilham Sastra Ardhie Purnomo is a web developer hailing from Sampit, Central Kalimantan. Has an interest in computers and technology since his school days, the guy who also an avid fan of Charles Leclerc starts playing with the web from Blogger custom templates, installing and configuring WordPress, up to local-made CMS namely AuraCMS.
 
-#### Generators I use to create websites
-<details>
-<summary>Click to open</summary>
+Was enrolled in Bachelor of Informatics at Telkom University, Bandung, but left unfinished due to financial reasons. However he didn't left his passion for web development and with what's left from his college days, he continued to complete his quest for web development journey, self-taught.
 
-|   |   |   |
-|---|---|---|
-| <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/nextdotjs.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/astro.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/eleventy.svg" /> |
-| [NextJS](https://nextjs.org) | [Astro.build](https://astro.build) | [Eleventy](https://11ty.dev) |
+After college he was occupied as an IT Support at Aquarius Boutique Hotel, Sampit and then BMT 071 Baamang, Sampit. His professional experience as a web developer started by developing website for a candidate for 2020 mayoral election at Kotawaringin Timur. Since then, he started a business under trade name SNGR Studio.
 
-In the past i also created websites with Jekyll and Pelican but not anymore.
-
-</details>
-
-#### My Frontend library list
-<details>
-<summary>Click to open</summary>
-
-
-|   |   |   |
-|---|---|---|
-| <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/tailwindcss.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/react.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/svelte.svg" /> |
-| [Tailwind CSS](https://tailwindcss.com) | [React](https://reactjs.org) | [Svelte](https://svelte.dev) |
-
-</details>
-
-#### Wherever I need backend and to deploy apps:
-<details>
-<summary>Click to open</summary>
-
-|   |   |   |   |
-|---|---|---|---|
-| <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/railway.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/supabase.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/netlify.svg" /> | <img height="64" width="64" src="https://unpkg.com/simple-icons@v6/icons/vercel.svg" />
-| [Railway](https://railway.app) | [Supabase](https://supabase.com) |[Netlify](https://netlify.com) |[Vercel](https://vercel.com) |
-
-</details>
-
-### My finished works include:
-<details>
-<summary>Click to view.</summary>
-
-|   |   |   |
-|---|---|---|
-| ![][kotimbercahaya] | ![][mushollamadani] | ![][dm3kalselteng] |
-| [**Kotim Bercahaya Mantap**](https://wizardly-clarke-78ab17.netlify.app) | [**Musholla Madani**](https://mushollamadani.com) | **DM3 KAMMI Kalsel-Kalteng** |
-
-</details>
+His current aim at tomorrow, is being able to contribute for empowering technological advancements in his local community especially in Kalimantan Tengah. He said: *"Microsoft and Google are eager to put their technology investments in African countries, so if we show them what we are able to, they would invest in Borneo too."*
 
 ### Read on my blog:
 <!-- BLOG-POST-LIST:START -->
@@ -77,11 +31,6 @@ In the past i also created websites with Jekyll and Pelican but not anymore.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ![radenpioneer's GitHub stats](https://github-readme-stats.vercel.app/api?username=radenpioneer&show_icons=true)
-
-<!--definition-->
-[dm3kalselteng]: https://snap.sngr.dev/image/dm3kalselteng.com/360,640,isMobile/
-[kotimbercahaya]: https://snap.sngr.dev/image/wizardly-clarke-78ab17.netlify.app/360,640,isMobile/
-[mushollamadani]: https://snap.sngr.dev/image/www.mushollamadani.com/360,640,isMobile/
 
 <!--
 **radenpioneer/radenpioneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
