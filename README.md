@@ -2,7 +2,7 @@
 > &mdash; *Imam Al-Shafei*
 ---
 
-R Ilham Sastra Ardhie Purnomo adalah seorang pengembang web asal Sampit, Kalimantan Tengah. Memiliki ketertarikan dengan dunia komputer dan teknologi sejak masa mudanya, penggemar Charles Leclerc ini mulai mengulik web mulai dari Blogger, WordPress, sampai bermain-main dengan CMS lokal yang tidak biasa seperti AuraCMS yang buatan Indonesia.
+R Ilham Sastra Ardhie Purnomo adalah seorang pengembang web asal Sampit, Kalimantan Tengah. Memiliki ketertarikan dengan dunia komputer dan teknologi sejak masa mudanya, penggemar Scuderia Ferrari ini mulai mengulik web mulai dari Blogger, WordPress, sampai bermain-main dengan CMS lokal yang tidak biasa seperti AuraCMS yang buatan Indonesia.
 
 Sempat menempuh pendidikan S1 Teknik Informatika di Telkom University, Bandung, namun tidak sempat menyelesaikan kuliahnya karena alasan finansial. Namun tidak menyurutkan kecintaannya terhadap dunia pengembangan web, dengan bekal seadanya yang ia peroleh di masa kuliahnya ia melanjutkan secara otodidak untuk melengkapi skill dan kemampuannya dalam industri pengembangan web.
 
