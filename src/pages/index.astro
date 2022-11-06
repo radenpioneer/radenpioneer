@@ -1,8 +1,29 @@
 ---
-import BaseLayout from '~/layouts/base.astro'
-import { Content } from '../../README.md'
+import MainLayout from '~/layouts/main.astro'
+import { SEO } from 'astro-seo'
+import site from '~/site.yml'
+
+const posts = await Astro.glob('./blog/**/*.{md,mdx}')
 ---
 
-<BaseLayout>
-  <Content />
-</BaseLayout>
+<MainLayout>
+  <SEO
+    title={`${site.name} | ${site.slogan}`}
+    description={site.description}
+    slot="head"
+  />
+  <section class="max-w-screen-md mx-auto">
+    {
+      posts.map((post) => (
+        <article class="prose prose-lg max-w-none mb-8">
+          <h2>
+            <a class="font-bold no-underline" href={post.url}>
+              {post.frontmatter.title}
+            </a>
+          </h2>
+          <Fragment set:html={post.compiledContent()} />
+        </article>
+      ))
+    }
+  </section>
+</MainLayout>

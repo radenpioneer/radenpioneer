@@ -1,0 +1,25 @@
+---
+import MainLayout from './main.astro'
+
+interface Props {
+  title: string
+}
+
+const { title } = Astro.props as Props
+---
+
+<MainLayout>
+  <Fragment slot="head">
+    <slot name="head" />
+  </Fragment>
+  <article class="prose prose-lg article">
+    <h1>{title}</h1>
+    <slot />
+  </article>
+</MainLayout>
+
+<style lang="scss">
+  .article {
+    @apply max-w-screen-md mx-auto;
+  }
+</style>

@@ -1,0 +1,20 @@
+---
+/*
+ * For usage with .md/.mdx files only.
+ * Otherwise please use PageLayout component
+ */
+
+import PageLayout from './page.astro'
+import { SEO } from 'astro-seo'
+
+const { frontmatter } = Astro.props
+---
+
+<PageLayout title={frontmatter.title}>
+  <Fragment slot="head">
+    <SEO title={frontmatter.title} />
+  </Fragment>
+  <Fragment>
+    <slot />
+  </Fragment>
+</PageLayout>

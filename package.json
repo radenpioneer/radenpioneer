@@ -6,7 +6,7 @@
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "dev": "astro dev",
-    "start": "astro dev",
+    "start": "pnpm dlx npm-run-all -s build preview",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
@@ -18,11 +18,15 @@
   "dependencies": {
     "@astrojs/mdx": "^0.11.5",
     "@astrojs/react": "^1.2.2",
+    "@modyfi/vite-plugin-yaml": "^1.0.3",
     "astro": "^1.6.0",
+    "astro-seo": "^0.6.0",
+    "daisyui": "^2.38.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.7",
     "@types/node": "^18.11.9",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
