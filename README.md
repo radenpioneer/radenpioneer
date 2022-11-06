@@ -1,5 +1,6 @@
 > Those who seeks the top, they sit up the nights. Those seeks the top with no effort, is in search of impossible.
-> &mdash; *Imam Al-Shafei*
+> &mdash; _Imam Al-Shafei_
+
 ---
 
 R Ilham Sastra Ardhie Purnomo adalah seorang pengembang web asal Sampit, Kalimantan Tengah. Memiliki ketertarikan dengan dunia komputer dan teknologi sejak masa mudanya, penggemar Scuderia Ferrari ini mulai mengulik web mulai dari Blogger, WordPress, sampai bermain-main dengan CMS lokal yang tidak biasa seperti AuraCMS yang buatan Indonesia.
@@ -8,7 +9,7 @@ Sempat menempuh pendidikan S1 Teknik Informatika di Telkom University, Bandung, 
 
 Ia sempat menjadi IT Support di Aquarius Boutique Hotel, Sampit, kemudian IT Support di BMT 071 Baamang, Sampit. Pengalaman profesionalnya sebagai pengembang web dimulai dengan mengerjakan website untuk Pilkada 2020 Kab. Kotawaringin Timur. Sejak saat itu, ia memutuskan untuk membentuk badan usaha dengan nama dagang SNGR Studio.
 
-Cita-citanya, saat ini adalah ingin berkontribusi agar Kalimantan Tengah juga bisa maju dalam teknologi, tak kalah saing dengan negara berkembang di luar sana yang sedang berpacu cepat dalam penerapan teknologi informasi. *“Microsoft dan Google saja mau berinvestasi besar-besaran di Afrika, kalau Kalteng mau menunjukkan kebisaannya pasti mereka juga akan tergiur berinvestasi teknologi di tanah Borneo”*, begitu ujarnya.
+Cita-citanya, saat ini adalah ingin berkontribusi agar Kalimantan Tengah juga bisa maju dalam teknologi, tak kalah saing dengan negara berkembang di luar sana yang sedang berpacu cepat dalam penerapan teknologi informasi. _“Microsoft dan Google saja mau berinvestasi besar-besaran di Afrika, kalau Kalteng mau menunjukkan kebisaannya pasti mereka juga akan tergiur berinvestasi teknologi di tanah Borneo”_, begitu ujarnya.
 
 ## English Version
 
@@ -18,10 +19,10 @@ Was enrolled in Bachelor of Informatics at Telkom University, Bandung, but left 
 
 After college he was occupied as an IT Support at Aquarius Boutique Hotel, Sampit and then BMT 071 Baamang, Sampit. His professional experience as a web developer started by developing website for a candidate for 2020 mayoral election at Kotawaringin Timur. Since then, he started a business under trade name SNGR Studio.
 
-His current aim at tomorrow, is being able to contribute for empowering technological advancements in his local community especially in Kalimantan Tengah. He said: *"Microsoft and Google are eager to put their technology investments in African countries, so if we show them what we are able to, they would invest in Borneo too."*
+His current aim at tomorrow, is being able to contribute for empowering technological advancements in his local community especially in Kalimantan Tengah. He said: _"Microsoft and Google are eager to put their technology investments in African countries, so if we show them what we are able to, they would invest in Borneo too."_
 
 ## Project
 
-| [SNGR Studio](https://sngr.studio) |
-| --- |
+| [SNGR Studio](https://sngr.studio)                                                             |
+| ---------------------------------------------------------------------------------------------- |
 | [![SNGR Studio](https://api.sngr.studio/image/https%3A%2F%2Fsngr.studio)](https://sngr.studio) |

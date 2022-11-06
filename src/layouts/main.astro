@@ -1,0 +1,12 @@
+---
+import BaseLayout from './base.astro'
+---
+
+<BaseLayout>
+  <Fragment slot="head">
+    <slot name="head" />
+  </Fragment>
+  <main>
+    <slot />
+  </main>
+</BaseLayout>
