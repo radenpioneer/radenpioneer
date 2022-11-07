@@ -1,8 +1,7 @@
 import type { FC } from 'react'
 import site from '~/site.yml'
+import image from '~/assets/profile.jpg?w=65&h=65'
 import style from './header.module.scss'
-
-const image = 'https://placekitten.com/100/100'
 
 const Header: FC = () => (
   <header className="py-8">
