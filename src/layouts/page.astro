@@ -13,13 +13,21 @@ const { title } = Astro.props as Props
     <slot name="head" />
   </Fragment>
   <article class="prose prose-lg article">
-    <h1>{title}</h1>
+    <h1 class="title">{title}</h1>
     <slot />
   </article>
 </MainLayout>
 
 <style lang="scss">
+  @use '../styles/fonts';
+
+  .title {
+    @extend %heading;
+    @apply font-extrabold;
+  }
+
   .article {
     @apply max-w-screen-md mx-auto;
+    @extend %body;
   }
 </style>

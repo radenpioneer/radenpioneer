@@ -12,9 +12,9 @@ const Header: FC = () => (
           <img src={image} width={65} height={65} alt={site.name} />
         </div>
       </a>
-      <h1 className="font-bold text-3xl">
-        <a href="/">{site.name}</a>
-      </h1>
+      <a className={style.header__title} href="/">
+        {site.name}
+      </a>
       <span>{site.slogan}</span>
     </div>
     <div className={style.header__main}>

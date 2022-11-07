@@ -1,0 +1,17 @@
+%body {
+  font-family: 'Lora', ui-serif, Georgia, serif;
+}
+
+%heading {
+  font-family: 'Cabin', system-ui, sans-serif;
+}
+
+@supports (font-variation-settings: normal) {
+  %body {
+    font-family: 'LoraVariable', ui-serif, Georgia, serif;
+  }
+
+  %heading {
+    font-family: 'CabinVariable', system-ui, sans-serif;
+  }
+}

@@ -3,6 +3,8 @@ lockfileVersion: 5.4
 specifiers:
   '@astrojs/mdx': ^0.11.5
   '@astrojs/react': ^1.2.2
+  '@fontsource/cabin': ^4.5.9
+  '@fontsource/lora': ^4.5.12
   '@modyfi/vite-plugin-yaml': ^1.0.3
   '@tailwindcss/typography': ^0.5.7
   '@types/node': ^18.11.9
@@ -23,6 +25,8 @@ specifiers:
 dependencies:
   '@astrojs/mdx': 0.11.5_rollup@2.79.1
   '@astrojs/react': 1.2.2_gqczyrwmhlwpr6z64d3xh3wv54
+  '@fontsource/cabin': 4.5.9
+  '@fontsource/lora': 4.5.12
   '@modyfi/vite-plugin-yaml': 1.0.3_vite@3.2.2
   astro: 1.6.3_sass@1.56.0
   astro-seo: 0.6.0
@@ -467,6 +471,14 @@ packages:
     requiresBuild: true
     dev: false
     optional: true
+
+  /@fontsource/cabin/4.5.9:
+    resolution: {integrity: sha512-xfgktq3GUUk/LSNE91MOJyHEaeXBmAyCkjX/syEqEQj88HG7LA4npPZ0FzQ/mg56gLgdginDhkTH3/JcB+jDdA==}
+    dev: false
+
+  /@fontsource/lora/4.5.12:
+    resolution: {integrity: sha512-fOJN5nqvMbxu5P5AZnemQB8bSXUITRNuVN0u9x+19FG+GVarQrGeW1DtXEaX+hXCJjbYjOiQ3psYoa1nVJJk6A==}
+    dev: false
 
   /@jridgewell/gen-mapping/0.1.1:
     resolution: {integrity: sha512-sQXCasFk+U8lWYEe66WxRDOE9PjVz4vSM51fTu3Hw+ClTpUSQb718772vH3pyS5pShp6lvQM7SxgIDXXXmOX7w==}
