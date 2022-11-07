@@ -1,14 +1,14 @@
 import { defineConfig } from 'astro/config'
 import yaml from '@modyfi/vite-plugin-yaml'
-
-// https://astro.build/config
 import react from '@astrojs/react'
 import mdx from '@astrojs/mdx'
 import { astroImageTools } from 'astro-imagetools'
+import sitemap from '@astrojs/sitemap'
+import prefetch from '@astrojs/prefetch'
 
-// https://astro.build/config
 export default defineConfig({
-  integrations: [react(), mdx(), astroImageTools],
+  site: 'https://radenpioneer.netlify.app/',
+  integrations: [react(), mdx(), astroImageTools, sitemap(), prefetch()],
   vite: {
     plugins: [yaml()],
   },

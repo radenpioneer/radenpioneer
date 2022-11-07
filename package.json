@@ -17,7 +17,10 @@
   },
   "dependencies": {
     "@astrojs/mdx": "^0.11.5",
+    "@astrojs/prefetch": "^0.1.1",
     "@astrojs/react": "^1.2.2",
+    "@astrojs/rss": "^1.0.3",
+    "@astrojs/sitemap": "^1.0.0",
     "@fontsource/cabin": "^4.5.9",
     "@fontsource/lora": "^4.5.12",
     "@modyfi/vite-plugin-yaml": "^1.0.3",
