@@ -6,12 +6,12 @@ import style from './header.module.scss'
 const Header: FC = () => (
   <header className="py-8">
     <div className={style.header__main}>
-      <a className="avatar" href="/">
+      <a className="avatar" href="/" rel="prefetch">
         <div className="rounded-full w-[65px]">
           <img src={image} width={65} height={65} alt={site.name} />
         </div>
       </a>
-      <a className={style.header__title} href="/">
+      <a className={style.header__title} href="/" rel="prefetch">
         {site.name}
       </a>
       <span>{site.slogan}</span>
@@ -20,7 +20,9 @@ const Header: FC = () => (
       <ul className="menu menu-horizontal">
         {site.menu.map((menu) => (
           <li key="menu.path">
-            <a href={menu.path}>{menu.name}</a>
+            <a href={menu.path} rel="prefetch">
+              {menu.name}
+            </a>
           </li>
         ))}
       </ul>
