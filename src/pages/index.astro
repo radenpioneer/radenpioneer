@@ -14,14 +14,19 @@ const posts = await Astro.glob('./blog/**/*.{md,mdx}')
   />
   <section class="max-w-screen-md mx-auto">
     {
-      posts.map((post) => (
-        <article class="prose prose-lg article">
-          <h2 class="title">
-            <a href={post.url}>{post.frontmatter.title}</a>
-          </h2>
-          <Fragment set:html={post.compiledContent()} />
-        </article>
-      ))
+      posts
+        .sort(
+          (a, b) =>
+            +new Date(b.frontmatter.date) - +new Date(a.frontmatter.date)
+        )
+        .map((post) => (
+          <article class="prose prose-lg article">
+            <h2 class="title">
+              <a href={post.url}>{post.frontmatter.title}</a>
+            </h2>
+            <Fragment set:html={post.compiledContent()} />
+          </article>
+        ))
     }
   </section>
 </MainLayout>
