@@ -7,7 +7,7 @@ import sitemap from '@astrojs/sitemap'
 import prefetch from '@astrojs/prefetch'
 
 export default defineConfig({
-  site: 'https://radenpioneer.netlify.app/',
+  site: 'https://radenpioneer.blog/',
   integrations: [react(), mdx(), astroImageTools, sitemap(), prefetch()],
   vite: {
     plugins: [yaml()],
