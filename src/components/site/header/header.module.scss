@@ -8,3 +8,7 @@
   @extend %heading;
   @apply font-bold text-3xl link-hover;
 }
+
+.menu__dropdown {
+  @apply bg-base-100 shadow rounded-box px-2 py-1;
+}

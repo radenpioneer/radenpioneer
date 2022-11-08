@@ -5,11 +5,12 @@ import mdx from '@astrojs/mdx'
 import { astroImageTools } from 'astro-imagetools'
 import sitemap from '@astrojs/sitemap'
 import prefetch from '@astrojs/prefetch'
+import Icons from 'unplugin-icons/vite'
 
 export default defineConfig({
   site: 'https://radenpioneer.blog/',
   integrations: [react(), mdx(), astroImageTools, sitemap(), prefetch()],
   vite: {
-    plugins: [yaml()],
+    plugins: [yaml(), Icons({ compiler: 'jsx', jsx: 'react' })],
   },
 })
