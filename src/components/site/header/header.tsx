@@ -1,21 +1,25 @@
 import type { FC } from 'react'
 import site from '~/site.yml'
-import image from '~/assets/profile.jpg?w=65&h=65'
 import MenuIcon from '~icons/carbon/menu'
+import { Image } from '~/components/common'
 import style from './header.module.scss'
 
-const Header: FC = () => (
+interface HeaderImageSrc {
+  imgSrc: any
+}
+
+const Header: FC<HeaderImageSrc> = ({ imgSrc }) => (
   <header className="py-8">
-    <HeaderMain />
+    <HeaderMain imgSrc={imgSrc} />
     <Menu />
   </header>
 )
 
-const HeaderMain: FC = () => (
+const HeaderMain: FC<HeaderImageSrc> = ({ imgSrc }) => (
   <div className={style.header__main}>
     <a className="avatar" href="/" rel="prefetch">
       <div className="rounded-full w-[65px]">
-        <img src={image} width={65} height={65} alt={site.name} />
+        <Image imgSrc={imgSrc} />
       </div>
     </a>
     <a className={style.header__title} href="/" rel="prefetch">

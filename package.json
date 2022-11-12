@@ -6,16 +6,17 @@
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "dev": "astro dev",
-    "start": "pnpm dlx npm-run-all -s build preview",
+    "start": "pnpx npm-run-all -s build preview",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
     "check:code": "prettier --check --plugin-search-dir=. .",
     "check:astro": "astro check && tsc --noEmit",
-    "prebuild": "pnpm dlx npm-run-all -s check:*",
+    "prebuild": "pnpx npm-run-all -s check:*",
     "format": "prettier --write --plugin-search-dir=. ."
   },
   "dependencies": {
+    "@astrojs/image": "^0.11.4",
     "@astrojs/mdx": "^0.11.5",
     "@astrojs/prefetch": "^0.1.1",
     "@astrojs/react": "^1.2.2",
@@ -27,11 +28,11 @@
     "@modyfi/vite-plugin-yaml": "^1.0.3",
     "@svgr/core": "^6.5.1",
     "astro": "^1.6.0",
-    "astro-imagetools": "^0.6.11",
     "astro-seo": "^0.6.0",
     "daisyui": "^2.38.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "sharp": "^0.31.2",
     "unplugin-icons": "^0.14.13"
   },
   "devDependencies": {
