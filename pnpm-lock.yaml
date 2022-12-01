@@ -1,8 +1,8 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@astrojs/image': 0.11.6
-  '@astrojs/mdx': 0.11.6
+  '@astrojs/image': 0.12.0
+  '@astrojs/mdx': 0.12.0
   '@astrojs/prefetch': 0.1.1
   '@astrojs/react': 1.2.2
   '@astrojs/rss': 1.0.3
@@ -31,8 +31,8 @@ specifiers:
   unplugin-icons: 0.14.14
 
 dependencies:
-  '@astrojs/image': 0.11.6_sharp@0.31.2
-  '@astrojs/mdx': 0.11.6_rollup@2.79.1
+  '@astrojs/image': 0.12.0_sharp@0.31.2
+  '@astrojs/mdx': 0.12.0_rollup@2.79.1
   '@astrojs/prefetch': 0.1.1
   '@astrojs/react': 1.2.2_cn3ejhfta5lq2dae4xucvtkwvu
   '@astrojs/rss': 1.0.3
@@ -98,8 +98,8 @@ packages:
   /@astrojs/compiler/0.29.9:
     resolution: {integrity: sha512-/oMQ0z3CJzGg6sv51tQTiHf/ETVsEu8ObN9OA7zs937dQx9Uo4SToYfdw3C4hf6olrLiADuDUsbkKSRe6fLSgA==}
 
-  /@astrojs/image/0.11.6_sharp@0.31.2:
-    resolution: {integrity: sha512-/awb4CWvOdoBv896XZcXw+oYEYLezWiaX5Oyk2g4PQ6rEHtZVROj56CFdUbS9ldmIqp3ni7rXNf1XK3dlP5d1A==}
+  /@astrojs/image/0.12.0_sharp@0.31.2:
+    resolution: {integrity: sha512-daX4pKHpOjRDgU4VieXUjrNgxI2NQVif47zihGEycaHUCxbMJr9rtdk6snT8m9+hdyFHTuihiUFsu7TJLFGGdw==}
     peerDependencies:
       sharp: '>=0.31.0'
     peerDependenciesMeta:
@@ -166,8 +166,8 @@ packages:
       - supports-color
     dev: false
 
-  /@astrojs/mdx/0.11.6_rollup@2.79.1:
-    resolution: {integrity: sha512-MEi8CZuz4vXn74/jCb0CMOAKEqd6nsLrShYfE+ddb1//14CwuaVGbXN7V6/zGj8ZvBhFk/darBbNpJBmzfbI6A==}
+  /@astrojs/mdx/0.12.0_rollup@2.79.1:
+    resolution: {integrity: sha512-KeX5YYla4KpiiDBVmbaYGqqt9QLVUj/Q2d3u+VRK3WnGI+lN9bVsJLid4wApU/kTA6iWlquIrbX2XmhUUF6viQ==}
     engines: {node: ^14.18.0 || >=16.12.0}
     dependencies:
       '@astrojs/prism': 1.0.2
