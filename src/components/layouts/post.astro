@@ -14,7 +14,5 @@ const { frontmatter } = Astro.props
   <Fragment slot="head">
     <SEO title={frontmatter.title} />
   </Fragment>
-  <Fragment>
-    <slot />
-  </Fragment>
+  <slot />
 </PageLayout>

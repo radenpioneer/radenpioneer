@@ -1,21 +1,26 @@
 ---
+// layout
+import BaseLayout from './base.astro'
+
+// components
+import { Icons, Main } from '../site'
+
+// styles and assets
+import '~/styles/global.scss'
 import '@fontsource/lora'
 import '@fontsource/lora/variable.css'
 import '@fontsource/lora/variable-italic.css'
 import '@fontsource/cabin'
 import '@fontsource/cabin/variable.css'
 import '@fontsource/cabin/variable-italic.css'
-
-import '~/styles/global.scss'
-import { Meta } from '~/components/site'
 ---
 
-<html lang="id">
-  <head>
-    <Meta />
+<BaseLayout>
+  <Fragment slot="head">
+    <Icons />
     <slot name="head" />
-  </head>
-  <body>
+  </Fragment>
+  <Main>
     <slot />
-  </body>
-</html>
+  </Main>
+</BaseLayout>

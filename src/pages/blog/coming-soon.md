@@ -1,7 +1,7 @@
 ---
 title: Coming Soon
 date: 2022-11-07
-layout: ~/layouts/post.astro
+layout: ~/components/layouts/post.astro
 ---
 
 Hey there, thanks for stopping by!

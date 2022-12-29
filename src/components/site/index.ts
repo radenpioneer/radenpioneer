@@ -1,2 +1,3 @@
+export { Head, Icons } from './head'
 export { Header } from './header'
-export { default as Meta } from './meta.astro'
+export { Main } from './main'
