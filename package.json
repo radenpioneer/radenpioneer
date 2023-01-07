@@ -20,7 +20,7 @@
     "@astrojs/mdx": "0.12.0",
     "@astrojs/prefetch": "0.1.1",
     "@astrojs/react": "1.2.2",
-    "@astrojs/rss": "1.0.3",
+    "@astrojs/rss": "2.0.0",
     "@astrojs/sitemap": "1.0.0",
     "@fontsource/cabin": "4.5.9",
     "@fontsource/lora": "4.5.12",
