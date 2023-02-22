@@ -8,7 +8,7 @@ R Ilham Sastra Ardhie Purnomo is a web developer from Sampit, Central Kalimantan
 * ✉️  Drop a holla at me -> [radenpioneer@hotmail.com](mailto:radenpioneer@hotmail.com)
 * ⚡  **SF-23 WILL WIN F1 IN 2023! ESSERE FERRARI!**
 
-<a href="https://radenpioneer.blog" target="_blank" rel="noreferrer"><img src="https://api.sngr.studio/image/https%3A%2F%2Fradenpioneer.blog" width="1280" height="720" alt="JavaScript" /></a>
+<a href="https://radenpioneer.blog" target="_blank" rel="noreferrer"><img src="https://api.sngr.studio/image/https%3A%2F%2Fradenpioneer.blog" alt="radenpioneer.blog" /></a>
 
 <a href="https://www.github.com/radenpioneer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/radenpioneer?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a><a href="https://www.twitter.com/radenpioneer" target="_blank" rel="noreferrer"><img
